@@ -1,0 +1,35 @@
+
+.menubox{
+    background-color: white;
+    width: max-content;
+    padding: 2rem 4rem;
+    margin: auto;
+    border-radius: 8px;
+    background-color: rgba(0, 252, 240, 0.4);
+}
+
+.menubox > input{
+    background-color: white;
+    /* opacity: 80%; */
+    padding: 0.4rem 0.5rem;
+    width: 15rem;
+    border-radius: 8px;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.btn-group{
+    display: flex;
+    flex-direction: column;
+    margin: 0.8rem auto;
+    gap: 0.2rem;
+}
+
+
+.startBtn{
+    background-color: rgb(45, 156, 8);
+    font-size: large;
+    font-weight: bolder;
+    border: 1px solid black;
+}
