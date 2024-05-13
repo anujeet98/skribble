@@ -6,6 +6,7 @@
     margin: auto;
     border-radius: 8px;
     background-color: rgba(0, 252, 240, 0.4);
+    box-shadow: 10% 4% 20% black;
 }
 
 .menubox > input{

@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './Menue.module.css';
+import classes from './Menu.module.css';
 
 function Menu() {
   return (
